@@ -1,4 +1,4 @@
-![썸네일](./image/chatbot_thumb.png)
+![썸네일](./image/thumb.png)
 <br>
 
 # 💬 Kakao Chatbot (KCP) 프로젝트
