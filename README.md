@@ -1,4 +1,5 @@
-![썸네일](./image/thumb.png)
+![썸네일](./images/thumb.png)
+
 <br>
 
 # 💬 Kakao Chatbot (KCP) 프로젝트
@@ -30,7 +31,7 @@
 <br>
 
 <p align="left">
-  <img src="./images/gantt.png" width="900" alt="mysql"/>
+  <img src="./images/gantt.png" width="900" alt="gantt.png"/>
 </p>
 
 <br>
@@ -41,7 +42,7 @@
 - **날씨**: 최근/주간 날씨, 지역별 오늘·내일·모레 날씨 정보 
 
 <p align="left">
-  <img src="./image/usecase.png" width="650" alt="유스케이스 다이어그램"/>
+  <img src="./images/function.png" width="450" alt="주요기능"/>
 </p>
 
 <br>
@@ -52,7 +53,7 @@
 - **사용자 인터페이스**: 카카오 플러스 친구 등록 후 챗봇 대화창 이용  
 
 <p align="left">
-  <img src="./image/interface.png" width="650" alt="챗봇 인터페이스 예시"/>
+  <img src="./images/detail.png" width="450" alt="상세 기능"/>
 </p>
 
 <br>
@@ -64,8 +65,19 @@
 - **문제**: BeautifulSoup 크롤링 시 응답 지연(5초 초과) 발생  
 - **해결방안**: 불필요한 모든 달 검색 → 최소 필요한 달만 검색하도록 코드 수정  
 
+<br>
+
+ 문제 해결 전
+
 <p align="left">
-  <img src="./image/code_fix.png" width="700" alt="코드 수정"/>
+  <img src="./images/before.png" width="850" alt="문제 해결 전"/>
+</p>
+
+<br>
+
+ 문제 해결
+<p align="left">
+  <img src="./images/after.png" width="850" alt="문제 해결 후"/>
 </p>
 
 <br>
@@ -82,5 +94,5 @@
 ## 📎 참고 자료
 해당 README는 요약본이며, 자세한 설계 문서 및 이미지 자료는 아래 첨부 문서에서 확인 가능합니다.
 
-- 📄 [GYMPT_최종보고서.pdf](./GYMPT_최종보고서.pdf)
+- 📄 [SW Chatbot Report.hwp](./SW Chatbot Report.hwp)
 
