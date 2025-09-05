@@ -75,7 +75,7 @@
 
 <br>
 
- 문제 해결
+ 문제 해결 후
 <p align="left">
   <img src="./images/after.png" width="850" alt="문제 해결 후"/>
 </p>
