@@ -2,7 +2,7 @@
 
 <br>
 
-# 💬 Kakao Chatbot (KCP) 프로젝트
+# 💬 Kakao Chatbot Project (KCP) 
 
 > 본 프로젝트는 카카오톡 기반 챗봇을 구현하여  
 > **날씨, 주식, 스포츠 정보를 실시간으로 제공**하는 것을 목표로 합니다.  
@@ -94,4 +94,4 @@
 ## 📎 참고 자료
 해당 README는 요약본이며, 자세한 설계 문서 및 이미지 자료는 아래 첨부 문서에서 확인 가능합니다.
 
-- 📄 [SW Chatbot Report.hwp](./SW Chatbot Report.hwp)
+- 📄 [Kakao_Chatbot_Project_Report.pdf](./Kakao_Chatbot_Project_Report.pdf)
