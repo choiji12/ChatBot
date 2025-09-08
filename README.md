@@ -15,7 +15,7 @@
 - **주제 선정 이유**: 실시간으로 변화하는 정보를 사용자가 직접 검색하지 않고,  
   카카오톡 챗봇을 통해 간편하게 제공받을 수 있도록 하기 위함  
 - **목표**: 카카오 챗봇을 통한 사용자 맞춤형 정보 제공 (날씨, 주식, 스포츠)  
-- **환경**: Python, Goorm IDE, kakao open builder, BeautifulSoup  
+- **환경**:Goorm IDE, kakao open builder
 
 <br>
 
@@ -85,7 +85,6 @@
 ## ⚙️ 사용 기술
 - **언어**: Python  
 - **데이터 수집**: BeautifulSoup4 (웹 크롤링)  
-- **플랫폼**: Kakao Biz API, Goorm IDE  
 - **프레임워크**: Flask  
 - **문서화**: PPT, HWP 
 
