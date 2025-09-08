@@ -87,7 +87,7 @@
 - **데이터 수집**: BeautifulSoup4 (웹 크롤링)  
 - **프레임워크**: Flask  
 - **문서화**: PPT, HWP 
-
+- **서버**: Goorm IDE, kakao open builder
 <br>
 
 ## 📎 참고 자료
